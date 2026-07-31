@@ -1,0 +1,47 @@
+{
+  "updated_at_utc": "2026-07-31T09:41:31.726273+00:00",
+  "sources": {
+    "hkex_list_of_securities_xlsx": "https://www.hkex.com.hk/eng/services/trading/securities/securitieslists/ListOfSecurities.xlsx",
+    "yahoo_finance_daily_bars": "yfinance"
+  },
+  "rules": {
+    "keep_categories": [
+      "Equity",
+      "Exchange Traded Products",
+      "Real Estate Investment Trusts"
+    ],
+    "exclude_subcategories": [
+      "Depositary Receipts",
+      "Trading Only Securities"
+    ],
+    "pre_scan_generated_exclusions": "30日平均成交額 < 1500萬港元，或 Yahoo 對不到 / 疑似已下市代號"
+  },
+  "counts": {
+    "symbols": 3040,
+    "generated_exclusions": 2363,
+    "smallcap_symbols": 2359,
+    "missing_symbols": 4
+  },
+  "files": {
+    "hkex_ListOfSecurities.xlsx": {
+      "sha256": "c52945f1c4d6bf6e17b14208c23d769b6a3a3ec904ec5e5d628a1ec68c6d5c0d",
+      "bytes": 1369315
+    },
+    "hk_symbols.csv": {
+      "sha256": "33ca3db5498389e80cc098b5536e683eac231bd7e333a2eb4a01dbdf2abfbb58",
+      "bytes": 205313
+    },
+    "monthly_excluded_symbols.json": {
+      "sha256": "fa6f305c9f6784f3b6eb0ed2854542721f31d3b10fe3eaed2b780a4b3f472984",
+      "bytes": 767963
+    },
+    "monthly_excluded_symbols.csv": {
+      "sha256": "5097dd778c1c856f36981d2ef25505b459e8f75c60e014c47dcfb3b88e7de2d6",
+      "bytes": 252482
+    },
+    "monthly_excluded_symbols.txt": {
+      "sha256": "615c416302b07eb93ba1784c9a5205a31317803bcae172e54a00142c7710f23d",
+      "bytes": 18904
+    }
+  }
+}
