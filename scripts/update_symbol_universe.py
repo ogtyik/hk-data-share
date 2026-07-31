@@ -20,7 +20,7 @@ from hk_universe import (
     download_hkex_workbook,
     parse_hkex_workbook,
 )
-import hk_pattern_scan as scan
+import hk_data_utils as scan
 
 SMALLCAP_AVG_TURNOVER_30D_HKD = 15_000_000
 DEFAULT_SCAN_PERIOD = '2mo'
