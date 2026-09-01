@@ -17,7 +17,7 @@ stock_code,symbol,name,category,sub_category,currency
 0019,0019.HK,SWIRE PACIFIC A,Equity,Equity Securities (Main Board),HKD
 0020,0020.HK,SENSETIME-W,Equity,Equity Securities (Main Board),HKD
 0021,0021.HK,GREAT CHI HLDGS,Equity,Equity Securities (Main Board),HKD
-0022,0022.HK,MEXAN-NEW,Equity,Equity Securities (Main Board),HKD
+0022,0022.HK,MEXAN,Equity,Equity Securities (Main Board),HKD
 0023,0023.HK,BANK OF E ASIA,Equity,Equity Securities (Main Board),HKD
 0025,0025.HK,CHEVALIER INT'L,Equity,Equity Securities (Main Board),HKD
 0026,0026.HK,CHINA MOTOR BUS,Equity,Equity Securities (Main Board),HKD
@@ -49,7 +49,7 @@ stock_code,symbol,name,category,sub_category,currency
 0058,0058.HK,SUNWAY INT'L,Equity,Equity Securities (Main Board),HKD
 0059,0059.HK,SKYFAME REALTY,Equity,Equity Securities (Main Board),HKD
 0060,0060.HK,HK FOOD INV,Equity,Equity Securities (Main Board),HKD
-0061,0061.HK,GREEN LEAD-NEW,Equity,Equity Securities (Main Board),HKD
+0061,0061.HK,GREEN LEADER,Equity,Equity Securities (Main Board),HKD
 0062,0062.HK,TRANSPORT INT'L,Equity,Equity Securities (Main Board),HKD
 0063,0063.HK,CHI ASIA VALLEY,Equity,Equity Securities (Main Board),HKD
 0064,0064.HK,GET NICE,Equity,Equity Securities (Main Board),HKD
@@ -165,7 +165,6 @@ stock_code,symbol,name,category,sub_category,currency
 0191,0191.HK,LAI SUN INT'L,Equity,Equity Securities (Main Board),HKD
 0193,0193.HK,CAPITAL ESTATE,Equity,Equity Securities (Main Board),HKD
 0194,0194.HK,LIU CHONG HING,Equity,Equity Securities (Main Board),HKD
-0195,0195.HK,GREENTECH INTL,Equity,Equity Securities (Main Board),HKD
 0196,0196.HK,HONGHUA GROUP,Equity,Equity Securities (Main Board),HKD
 0197,0197.HK,HENG TAI,Equity,Equity Securities (Main Board),HKD
 0199,0199.HK,ITC PROPERTIES,Equity,Equity Securities (Main Board),HKD
@@ -275,7 +274,7 @@ stock_code,symbol,name,category,sub_category,currency
 0329,0329.HK,OCI INTL,Equity,Equity Securities (Main Board),HKD
 0330,0330.HK,ESPRIT HOLDINGS,Equity,Equity Securities (Main Board),HKD
 0331,0331.HK,FSE LIFESTYLE,Equity,Equity Securities (Main Board),HKD
-0332,0332.HK,YUANHENGGAS-NEW,Equity,Equity Securities (Main Board),HKD
+0332,0332.HK,YUANHENG GAS,Equity,Equity Securities (Main Board),HKD
 0333,0333.HK,TOP FORM INT'L,Equity,Equity Securities (Main Board),HKD
 0334,0334.HK,CH DISPLAY OPT,Equity,Equity Securities (Main Board),HKD
 0335,0335.HK,UPBEST GROUP,Equity,Equity Securities (Main Board),HKD
@@ -295,7 +294,7 @@ stock_code,symbol,name,category,sub_category,currency
 0353,0353.HK,ENERGY INTINV,Equity,Equity Securities (Main Board),HKD
 0354,0354.HK,CHINASOFT INT'L,Equity,Equity Securities (Main Board),HKD
 0355,0355.HK,CENTURY C INT'L,Equity,Equity Securities (Main Board),HKD
-0356,0356.HK,DT CAPITAL-NEW,Equity,Investment Companies,HKD
+0356,0356.HK,DT CAPITAL,Equity,Investment Companies,HKD
 0357,0357.HK,MEILAN AIRPORT,Equity,Equity Securities (Main Board),HKD
 0358,0358.HK,JIANGXI COPPER,Equity,Equity Securities (Main Board),HKD
 0360,0360.HK,NEW FOCUS AUTO,Equity,Equity Securities (Main Board),HKD
@@ -411,10 +410,10 @@ stock_code,symbol,name,category,sub_category,currency
 0520,0520.HK,XIABUXIABU,Equity,Equity Securities (Main Board),HKD
 0521,0521.HK,CWT INT'L,Equity,Equity Securities (Main Board),HKD
 0522,0522.HK,ASMPT,Equity,Equity Securities (Main Board),HKD
-0524,0524.HK,GW TERROIR-10K,Equity,Equity Securities (Main Board),HKD
+0524,0524.HK,GW TERROIR,Equity,Equity Securities (Main Board),HKD
 0525,0525.HK,GUANGSHEN RAIL,Equity,Equity Securities (Main Board),HKD
 0526,0526.HK,LISI GP HOLD,Equity,Equity Securities (Main Board),HKD
-0527,0527.HK,RUIFENG RENEW,Equity,Equity Securities (Main Board),HKD
+0527,0527.HK,RF GREEN EN AI,Equity,Equity Securities (Main Board),HKD
 0528,0528.HK,KINGDOM HOLDING,Equity,Equity Securities (Main Board),HKD
 0529,0529.HK,SIS INT'L,Equity,Equity Securities (Main Board),HKD
 0532,0532.HK,WKK INTL (HOLD),Equity,Equity Securities (Main Board),HKD
@@ -457,7 +456,7 @@ stock_code,symbol,name,category,sub_category,currency
 0581,0581.HK,CHINA ORIENTAL,Equity,Equity Securities (Main Board),HKD
 0582,0582.HK,SHIN HWA WORLD,Equity,Equity Securities (Main Board),HKD
 0583,0583.HK,GWPA HOLDINGS,Equity,Equity Securities (Main Board),HKD
-0585,0585.HK,IMAGI INT'L,Equity,Equity Securities (Main Board),HKD
+0585,0585.HK,IMAGI INT'L-500,Equity,Equity Securities (Main Board),HKD
 0586,0586.HK,CONCH VENTURE,Equity,Equity Securities (Main Board),HKD
 0587,0587.HK,CONCH ENVIRO,Equity,Equity Securities (Main Board),HKD
 0588,0588.HK,BEIJING N STAR,Equity,Equity Securities (Main Board),HKD
@@ -489,6 +488,7 @@ stock_code,symbol,name,category,sub_category,currency
 0621,0621.HK,TAUNG GOLD,Equity,Equity Securities (Main Board),HKD
 0622,0622.HK,OSHIDORI,Equity,Equity Securities (Main Board),HKD
 0623,0623.HK,GOLDENBRIDGE GP,Equity,Equity Securities (Main Board),HKD
+0625,0625.HK,SHEIN-W,Equity,Equity Securities (Main Board),HKD
 0626,0626.HK,PUBLIC FIN HOLD,Equity,Equity Securities (Main Board),HKD
 0627,0627.HK,VISION SYNERGY,Equity,Equity Securities (Main Board),HKD
 0628,0628.HK,TONGTONG AI SOC,Equity,Equity Securities (Main Board),HKD
@@ -580,7 +580,7 @@ stock_code,symbol,name,category,sub_category,currency
 0737,0737.HK,BAY AREA DEV,Equity,Equity Securities (Main Board),HKD
 0738,0738.HK,LE SAUNDA,Equity,Equity Securities (Main Board),HKD
 0743,0743.HK,ASIA CEMENT CH,Equity,Equity Securities (Main Board),HKD
-0745,0745.HK,CN CULTURE GP,Equity,Equity Securities (Main Board),HKD
+0745,0745.HK,CN CULTURE-2000,Equity,Equity Securities (Main Board),HKD
 0746,0746.HK,L & M CHEMICAL,Equity,Equity Securities (Main Board),HKD
 0747,0747.HK,SHENYANG PUBLIC,Equity,Equity Securities (Main Board),HKD
 0750,0750.HK,SFSY ENERGY,Equity,Equity Securities (Main Board),HKD
@@ -607,9 +607,9 @@ stock_code,symbol,name,category,sub_category,currency
 0777,0777.HK,NETDRAGON,Equity,Equity Securities (Main Board),HKD
 0778,0778.HK,FORTUNE REIT,Real Estate Investment Trusts,,HKD
 0780,0780.HK,TONGCHENGTRAVEL,Equity,Equity Securities (Main Board),HKD
-0784,0784.HK,LING YUI,Equity,Equity Securities (Main Board),HKD
+0784,0784.HK,AILIFE INTL,Equity,Equity Securities (Main Board),HKD
 0788,0788.HK,CHINA TOWER,Equity,Equity Securities (Main Board),HKD
-0789,0789.HK,ARTINI HLDG-NEW,Equity,Equity Securities (Main Board),HKD
+0789,0789.HK,ARTINI HLDG,Equity,Equity Securities (Main Board),HKD
 0794,0794.HK,COME SURE GROUP,Equity,Equity Securities (Main Board),HKD
 0797,0797.HK,7ROAD,Equity,Equity Securities (Main Board),HKD
 0798,0798.HK,CEOVU,Equity,Equity Securities (Main Board),HKD
@@ -782,7 +782,7 @@ stock_code,symbol,name,category,sub_category,currency
 1024,1024.HK,KUAISHOU-W,Equity,Equity Securities (Main Board),HKD
 1025,1025.HK,KNT HOLDINGS,Equity,Equity Securities (Main Board),HKD
 1026,1026.HK,UNIVERSAL TECH,Equity,Equity Securities (Main Board),HKD
-1027,1027.HK,ASIA STRAT TECH,Equity,Equity Securities (Main Board),HKD
+1027,1027.HK,ASIA STRAT-1K,Equity,Equity Securities (Main Board),HKD
 1028,1028.HK,C.BANNER,Equity,Equity Securities (Main Board),HKD
 1029,1029.HK,IRC,Equity,Equity Securities (Main Board),HKD
 1030,1030.HK,SEAZEN,Equity,Equity Securities (Main Board),HKD
@@ -807,7 +807,7 @@ stock_code,symbol,name,category,sub_category,currency
 1060,1060.HK,DAMAI ENT,Equity,Equity Securities (Main Board),HKD
 1061,1061.HK,ESSEX BIO-TECH,Equity,Equity Securities (Main Board),HKD
 1062,1062.HK,CDB INT'L INV,Equity,Investment Companies,HKD
-1063,1063.HK,SUNCORP TECH,Equity,Equity Securities (Main Board),HKD
+1063,1063.HK,SUNCORP TEC-NEW,Equity,Equity Securities (Main Board),HKD
 1064,1064.HK,ZHONG HUA INT'L,Equity,Equity Securities (Main Board),HKD
 1065,1065.HK,TIANJIN CAPITAL,Equity,Equity Securities (Main Board),HKD
 1066,1066.HK,WEIGAO GROUP,Equity,Equity Securities (Main Board),HKD
@@ -832,7 +832,7 @@ stock_code,symbol,name,category,sub_category,currency
 1091,1091.HK,SOUTH MANGANESE,Equity,Equity Securities (Main Board),HKD
 1093,1093.HK,CSPC PHARMA,Equity,Equity Securities (Main Board),HKD
 1094,1094.HK,CHERISH SUN,Equity,Equity Securities (Main Board),HKD
-1097,1097.HK,I-CABLE COMM,Equity,Equity Securities (Main Board),HKD
+1097,1097.HK,CTFME,Equity,Equity Securities (Main Board),HKD
 1098,1098.HK,ROAD KING INFRA,Equity,Equity Securities (Main Board),HKD
 1099,1099.HK,SINOPHARM,Equity,Equity Securities (Main Board),HKD
 1100,1100.HK,MAINLAND HOLD,Equity,Equity Securities (Main Board),HKD
@@ -872,7 +872,6 @@ stock_code,symbol,name,category,sub_category,currency
 1140,1140.HK,HK.AI CAPITAL,Equity,Investment Companies,HKD
 1141,1141.HK,CMBC CAPITAL,Equity,Equity Securities (Main Board),HKD
 1142,1142.HK,E&P GLOBAL,Equity,Equity Securities (Main Board),HKD
-1143,1143.HK,CN ENGY STORAGE,Equity,Equity Securities (Main Board),HKD
 1145,1145.HK,COURAGE INV,Equity,Equity Securities (Main Board),HKD
 1146,1146.HK,HUICHENG INTL H,Equity,Equity Securities (Main Board),HKD
 1147,1147.HK,EDENSOFT,Equity,Equity Securities (Main Board),HKD
@@ -951,7 +950,6 @@ stock_code,symbol,name,category,sub_category,currency
 1243,1243.HK,WANG ON PPT,Equity,Equity Securities (Main Board),HKD
 1244,1244.HK,3D MEDICINES,Equity,Equity Securities (Main Board),HKD
 1245,1245.HK,NIRAKU,Equity,Equity Securities (Main Board),HKD
-1246,1246.HK,BOILLHEALTHCARE,Equity,Equity Securities (Main Board),HKD
 1247,1247.HK,MIKO INTL,Equity,Equity Securities (Main Board),HKD
 1250,1250.HK,SDHS NEW ENERGY,Equity,Equity Securities (Main Board),HKD
 1251,1251.HK,SPT ENERGY,Equity,Equity Securities (Main Board),HKD
@@ -984,7 +982,7 @@ stock_code,symbol,name,category,sub_category,currency
 1288,1288.HK,ABC,Equity,Equity Securities (Main Board),HKD
 1289,1289.HK,SUNLIT SCI,Equity,Equity Securities (Main Board),HKD
 1290,1290.HK,CHINA HUIRONG,Equity,Equity Securities (Main Board),HKD
-1292,1292.HK,CMA LOGISTICS,Equity,Equity Securities (Main Board),HKD
+1292,1292.HK,CM LOGISTICS,Equity,Equity Securities (Main Board),HKD
 1293,1293.HK,GRAND BAOXIN,Equity,Equity Securities (Main Board),HKD
 1298,1298.HK,YUNNAN ENERGY,Equity,Equity Securities (Main Board),HKD
 1299,1299.HK,AIA,Equity,Equity Securities (Main Board),HKD
@@ -1017,7 +1015,7 @@ stock_code,symbol,name,category,sub_category,currency
 1336,1336.HK,NCI,Equity,Equity Securities (Main Board),HKD
 1338,1338.HK,BAWANG GROUP,Equity,Equity Securities (Main Board),HKD
 1339,1339.HK,PICC GROUP,Equity,Equity Securities (Main Board),HKD
-1340,1340.HK,HUISHENG I-NEW,Equity,Equity Securities (Main Board),HKD
+1340,1340.HK,HUISHENG INTL,Equity,Equity Securities (Main Board),HKD
 1341,1341.HK,HAO TIAN INTL,Equity,Equity Securities (Main Board),HKD
 1343,1343.HK,WEI YUAN HLDG,Equity,Equity Securities (Main Board),HKD
 1345,1345.HK,SH PIONEER HLDG,Equity,Equity Securities (Main Board),HKD
@@ -1036,7 +1034,7 @@ stock_code,symbol,name,category,sub_category,currency
 1364,1364.HK,GUMING,Equity,Equity Securities (Main Board),HKD
 1368,1368.HK,XTEP INT'L,Equity,Equity Securities (Main Board),HKD
 1370,1370.HK,AOWEI HOLDING,Equity,Equity Securities (Main Board),HKD
-1371,1371.HK,CN ECOTOUR-NEW,Equity,Equity Securities (Main Board),HKD
+1371,1371.HK,CHINA ECOTOUR,Equity,Equity Securities (Main Board),HKD
 1372,1372.HK,C CARBONNEUTRAL,Equity,Equity Securities (Main Board),HKD
 1373,1373.HK,IH RETAIL,Equity,Equity Securities (Main Board),HKD
 1375,1375.HK,CC SECURITIES,Equity,Equity Securities (Main Board),HKD
@@ -1080,7 +1078,7 @@ stock_code,symbol,name,category,sub_category,currency
 1428,1428.HK,BRIGHT SMART,Equity,Equity Securities (Main Board),HKD
 1429,1429.HK,SKYMISSION GP,Equity,Equity Securities (Main Board),HKD
 1431,1431.HK,YST DAIRY,Equity,Equity Securities (Main Board),HKD
-1432,1432.HK,CHINA SHENGMU,Equity,Equity Securities (Main Board),HKD
+1432,1432.HK,CHINASHENGMU-PF,Equity,Equity Securities (Main Board),HKD
 1433,1433.HK,CIRTEK HLDGS,Equity,Equity Securities (Main Board),HKD
 1440,1440.HK,STAR SHINE HLDG,Equity,Equity Securities (Main Board),HKD
 1442,1442.HK,INFINITY L&T,Equity,Equity Securities (Main Board),HKD
@@ -1226,7 +1224,7 @@ stock_code,symbol,name,category,sub_category,currency
 1645,1645.HK,HAINA INTEL,Equity,Equity Securities (Main Board),HKD
 1647,1647.HK,GRANDSHORES,Equity,Equity Securities (Main Board),HKD
 1650,1650.HK,HYGIEIA GROUP,Equity,Equity Securities (Main Board),HKD
-1651,1651.HK,TSUGAMI CHI-500,Equity,Equity Securities (Main Board),HKD
+1651,1651.HK,TSUGAMI CHINA,Equity,Equity Securities (Main Board),HKD
 1652,1652.HK,FUSEN PHARM,Equity,Equity Securities (Main Board),HKD
 1653,1653.HK,MOS HOUSE,Equity,Equity Securities (Main Board),HKD
 1655,1655.HK,OKURA HOLDINGS,Equity,Equity Securities (Main Board),HKD
@@ -1299,7 +1297,7 @@ stock_code,symbol,name,category,sub_category,currency
 1740,1740.HK,VALUES CULTURAL,Equity,Equity Securities (Main Board),HKD
 1741,1741.HK,SHING CHI HLDGS,Equity,Equity Securities (Main Board),HKD
 1742,1742.HK,HPC HOLDINGS,Equity,Equity Securities (Main Board),HKD
-1745,1745.HK,LVJI TECH,Equity,Equity Securities (Main Board),HKD
+1745,1745.HK,LVJI TECH-NEW,Equity,Equity Securities (Main Board),HKD
 1746,1746.HK,MAN SHUN GP,Equity,Equity Securities (Main Board),HKD
 1747,1747.HK,HOME CONTROL,Equity,Equity Securities (Main Board),HKD
 1748,1748.HK,XIN YUAN ENT,Equity,Equity Securities (Main Board),HKD
@@ -1327,7 +1325,7 @@ stock_code,symbol,name,category,sub_category,currency
 1773,1773.HK,TIANLI INT HLDG,Equity,Equity Securities (Main Board),HKD
 1775,1775.HK,BEXCELLENT GP,Equity,Equity Securities (Main Board),HKD
 1776,1776.HK,GF SEC,Equity,Equity Securities (Main Board),HKD
-1777,1777.HK,FANTASIA,Equity,Equity Securities (Main Board),HKD
+1777,1777.HK,FANTASIA-NEW,Equity,Equity Securities (Main Board),HKD
 1778,1778.HK,COLOUR LIFE,Equity,Equity Securities (Main Board),HKD
 1779,1779.HK,LONGBIO-B,Equity,Equity Securities (Main Board),HKD
 1780,1780.HK,RONGZUN INT'L H,Equity,Equity Securities (Main Board),HKD
@@ -1399,7 +1397,7 @@ stock_code,symbol,name,category,sub_category,currency
 1867,1867.HK,STD DEV GROUP,Equity,Equity Securities (Main Board),HKD
 1868,1868.HK,NEO-NEON,Equity,Equity Securities (Main Board),HKD
 1869,1869.HK,KAFELAKU COFFEE,Equity,Equity Securities (Main Board),HKD
-1870,1870.HK,ACME INTL HLDGS,Equity,Equity Securities (Main Board),HKD
+1870,1870.HK,GREEN POWER GP,Equity,Equity Securities (Main Board),HKD
 1871,1871.HK,CHINA ORIENTED,Equity,Equity Securities (Main Board),HKD
 1872,1872.HK,GUAN CHAO HLDGS,Equity,Equity Securities (Main Board),HKD
 1873,1873.HK,VIVA BIOTECH,Equity,Equity Securities (Main Board),HKD
@@ -1659,6 +1657,7 @@ stock_code,symbol,name,category,sub_category,currency
 2258,2258.HK,WATTS INT'L,Equity,Equity Securities (Main Board),HKD
 2259,2259.HK,ZIJIN GOLD INTL,Equity,Equity Securities (Main Board),HKD
 2260,2260.HK,VANOV HOLDINGS,Equity,Equity Securities (Main Board),HKD
+2261,2261.HK,NASN TECH,Equity,Equity Securities (Main Board),HKD
 2262,2262.HK,SLD GROUP,Equity,Equity Securities (Main Board),HKD
 2263,2263.HK,FU SHEK FIN,Equity,Equity Securities (Main Board),HKD
 2265,2265.HK,HC ENV TECH,Equity,Equity Securities (Main Board),HKD
@@ -1701,7 +1700,6 @@ stock_code,symbol,name,category,sub_category,currency
 2320,2320.HK,HOP FUNG GROUP,Equity,Equity Securities (Main Board),HKD
 2321,2321.HK,SWANGCHAICHUAN,Equity,Equity Securities (Main Board),HKD
 2322,2322.HK,MODERN INNO DT,Equity,Equity Securities (Main Board),HKD
-2323,2323.HK,RENCO HOLDINGS,Equity,Equity Securities (Main Board),HKD
 2324,2324.HK,CAPITAL VC,Equity,Investment Companies,HKD
 2325,2325.HK,YUNKANG GROUP,Equity,Equity Securities (Main Board),HKD
 2326,2326.HK,NPE HOLDINGS,Equity,Equity Securities (Main Board),HKD
@@ -1836,7 +1834,7 @@ stock_code,symbol,name,category,sub_category,currency
 2520,2520.HK,SHANXI INSTALL,Equity,Equity Securities (Main Board),HKD
 2521,2521.HK,SHENGHUI CLEAN,Equity,Equity Securities (Main Board),HKD
 2522,2522.HK,RIMAG GROUP,Equity,Equity Securities (Main Board),HKD
-2525,2525.HK,HESAI-W-NEW,Equity,Equity Securities (Main Board),HKD
+2525,2525.HK,HESAI-W,Equity,Equity Securities (Main Board),HKD
 2526,2526.HK,DIAGENS-B,Equity,Equity Securities (Main Board),HKD
 2528,2528.HK,FW FASHION INT,Equity,Equity Securities (Main Board),HKD
 2529,2529.HK,HOLLWIN URBAN,Equity,Equity Securities (Main Board),HKD
@@ -1858,7 +1856,7 @@ stock_code,symbol,name,category,sub_category,currency
 2555,2555.HK,CHABAIDAO,Equity,Equity Securities (Main Board),HKD
 2556,2556.HK,MARKETINGFORCE,Equity,Equity Securities (Main Board),HKD
 2558,2558.HK,JINSHANG BANK,Equity,Equity Securities (Main Board),HKD
-2559,2559.HK,DIDA INC,Equity,Equity Securities (Main Board),HKD
+2559,2559.HK,DIDA INC-PF,Equity,Equity Securities (Main Board),HKD
 2560,2560.HK,CONCH MAT TECH,Equity,Equity Securities (Main Board),HKD
 2561,2561.HK,VISEN PHARMA-B,Equity,Equity Securities (Main Board),HKD
 2562,2562.HK,SYNAGISTICS,Equity,Equity Securities (Main Board),HKD
@@ -1924,7 +1922,7 @@ stock_code,symbol,name,category,sub_category,currency
 2649,2649.HK,ALSCO POOLING,Equity,Equity Securities (Main Board),HKD
 2650,2650.HK,ZHIDA TECH,Equity,Equity Securities (Main Board),HKD
 2651,2651.HK,DAZHONG DENTAL,Equity,Equity Securities (Main Board),HKD
-2652,2652.HK,CF PHARMT-100,Equity,Equity Securities (Main Board),HKD
+2652,2652.HK,CF PHARMTECH,Equity,Equity Securities (Main Board),HKD
 2655,2655.HK,GUOXIA TECH,Equity,Equity Securities (Main Board),HKD
 2656,2656.HK,160 HEALTH,Equity,Equity Securities (Main Board),HKD
 2657,2657.HK,FOREST CABIN,Equity,Equity Securities (Main Board),HKD
@@ -1945,7 +1943,7 @@ stock_code,symbol,name,category,sub_category,currency
 2676,2676.HK,NOVOSENSE,Equity,Equity Securities (Main Board),HKD
 2677,2677.HK,DISTINCT HEALTH,Equity,Equity Securities (Main Board),HKD
 2678,2678.HK,TEXHONG INTL GP,Equity,Equity Securities (Main Board),HKD
-2680,2680.HK,INNOVAX HLDGS,Equity,Equity Securities (Main Board),HKD
+2680,2680.HK,AUSTRAX HLDGS,Equity,Equity Securities (Main Board),HKD
 2682,2682.HK,YUN LEE MARINE,Equity,Equity Securities (Main Board),HKD
 2683,2683.HK,WAHSUN HANDBAGS,Equity,Equity Securities (Main Board),HKD
 2685,2685.HK,QUANTGROUP,Equity,Equity Securities (Main Board),HKD
@@ -2041,25 +2039,16 @@ stock_code,symbol,name,category,sub_category,currency
 2892,2892.HK,MILLION CITIES,Equity,Equity Securities (Main Board),HKD
 2898,2898.HK,SUNHO BIO-B,Equity,Equity Securities (Main Board),HKD
 2899,2899.HK,ZIJIN MINING,Equity,Equity Securities (Main Board),HKD
-2900,2900.HK,LVJI TECH,Equity,Equity Securities (Main Board),HKD
-2971,2971.HK,CN ECOTOUR-OLD,Equity,Equity Securities (Main Board),HKD
-2974,2974.HK,ARTGO HOLD-OLD,Equity,Equity Securities (Main Board),HKD
-2975,2975.HK,YOUZAN-OLD,Equity,Equity Securities (Main Board),HKD
-2976,2976.HK,MEXAN-OLD,Equity,Equity Securities (Main Board),HKD
-2977,2977.HK,YUANHENGGAS-OLD,Equity,Equity Securities (Main Board),HKD
-2979,2979.HK,HAOSEN FINT-OLD,Equity,Equity Securities (Main Board),HKD
-2983,2983.HK,HESAI-W-OLD,Equity,Equity Securities (Main Board),HKD
-2986,2986.HK,HUISHENG I-OLD,Equity,Equity Securities (Main Board),HKD
-2987,2987.HK,MOG DIGITEC RTS,Equity,Equity Securities (Main Board),HKD
-2988,2988.HK,GREEN LEAD-OLD,Equity,Equity Securities (Main Board),HKD
-2989,2989.HK,CF PHARMT-500,Equity,Equity Securities (Main Board),HKD
-2990,2990.HK,DT CAPITAL-OLD,Equity,Investment Companies,HKD
-2991,2991.HK,POLY XVERSE IT,Equity,Equity Securities (Main Board),HKD
-2993,2993.HK,IMPERIUM T RTS,Equity,Equity Securities (Main Board),HKD
-2994,2994.HK,GW TERROIR-50K,Equity,Equity Securities (Main Board),HKD
-2995,2995.HK,ARTINI HLDG-OLD,Equity,Equity Securities (Main Board),HKD
-2997,2997.HK,TSUGAMI CHI-1K,Equity,Equity Securities (Main Board),HKD
+2900,2900.HK,LVJI TECH-OLD,Equity,Equity Securities (Main Board),HKD
+2901,2901.HK,FANTASIA-OLD,Equity,Equity Securities (Main Board),HKD
+2903,2903.HK,SUNCORP TEC-OLD,Equity,Equity Securities (Main Board),HKD
+2905,2905.HK,CN CULTURE-20K,Equity,Equity Securities (Main Board),HKD
+2908,2908.HK,BJ SPORTS & ENT,Equity,Equity Securities (Main Board),HKD
+2909,2909.HK,IMAGI INT'L-8K,Equity,Equity Securities (Main Board),HKD
+2910,2910.HK,ASIA STRAT-10K,Equity,Equity Securities (Main Board),HKD
+2912,2912.HK,EASYKNIT INT'L,Equity,Equity Securities (Main Board),HKD
 3001,3001.HK,PP CNUSDPROP,Exchange Traded Products,Exchange Traded Funds,HKD
+3002,3002.HK,A MBC BTCGOLD,Exchange Traded Products,Exchange Traded Funds,HKD
 3003,3003.HK,CSOP MSCI A 50,Exchange Traded Products,Exchange Traded Funds,HKD
 3004,3004.HK,CSOP VIETNAM30,Exchange Traded Products,Exchange Traded Funds,HKD
 3005,3005.HK,X CSOPCSI500,Exchange Traded Products,Exchange Traded Funds,HKD
@@ -2160,7 +2149,7 @@ stock_code,symbol,name,category,sub_category,currency
 3181,3181.HK,PREMIAASIATEC,Exchange Traded Products,Exchange Traded Funds,HKD
 3182,3182.HK,WISE NEWECONESG,Exchange Traded Products,Exchange Traded Funds,HKD
 3184,3184.HK,GX INDIA TOP 10,Exchange Traded Products,Exchange Traded Funds,HKD
-3185,3185.HK,GX FINTECH,Exchange Traded Products,Exchange Traded Funds,HKD
+3185,3185.HK,GX INNOVAFIN,Exchange Traded Products,Exchange Traded Funds,HKD
 3186,3186.HK,EFUND BIOPHAR,Exchange Traded Products,Exchange Traded Funds,HKD
 3187,3187.HK,SAMSUNG REITS,Exchange Traded Products,Exchange Traded Funds,HKD
 3188,3188.HK,CAM CSI300,Exchange Traded Products,Exchange Traded Funds,HKD
@@ -2173,6 +2162,7 @@ stock_code,symbol,name,category,sub_category,currency
 3196,3196.HK,A BOS USD MM,Exchange Traded Products,Exchange Traded Funds,HKD
 3199,3199.HK,ICBCCSOP CGPB,Exchange Traded Products,Exchange Traded Funds,HKD
 3200,3200.HK,HANS CNC,Equity,Equity Securities (Main Board),HKD
+3223,3223.HK,INGENIC,Equity,Equity Securities (Main Board),HKD
 3268,3268.HK,MEIG,Equity,Equity Securities (Main Board),HKD
 3277,3277.HK,GPIXEL,Equity,Equity Securities (Main Board),HKD
 3288,3288.HK,HAITIAN FLAV,Equity,Equity Securities (Main Board),HKD
@@ -2186,7 +2176,7 @@ stock_code,symbol,name,category,sub_category,currency
 3309,3309.HK,C-MER MEDICAL,Equity,Equity Securities (Main Board),HKD
 3310,3310.HK,VIEWTRIX TECH,Equity,Equity Securities (Main Board),HKD
 3311,3311.HK,CHINA STATE CON,Equity,Equity Securities (Main Board),HKD
-3313,3313.HK,ARTGO HOLD-NEW,Equity,Equity Securities (Main Board),HKD
+3313,3313.HK,ARTGO HOLDINGS,Equity,Equity Securities (Main Board),HKD
 3315,3315.HK,GOLDPAC GROUP,Equity,Equity Securities (Main Board),HKD
 3316,3316.HK,BINJIANG SER,Equity,Equity Securities (Main Board),HKD
 3317,3317.HK,XUNCE,Equity,Equity Securities (Main Board),HKD
@@ -2289,7 +2279,8 @@ stock_code,symbol,name,category,sub_category,currency
 3519,3519.HK,A HSCEICC,Exchange Traded Products,Exchange Traded Funds,HKD
 3533,3533.HK,XA GX GOLD CC,Exchange Traded Products,Exchange Traded Funds,HKD
 3535,3535.HK,CSOP HKJPCF,Exchange Traded Products,Exchange Traded Funds,HKD
-3537,3537.HK,A CSOP KOSPICC,Exchange Traded Products,Other Unit Trusts/Mutual Funds,HKD
+3537,3537.HK,A CSOP KOSPICC,Exchange Traded Products,Exchange Traded Funds,HKD
+3555,3555.HK,AGX HSDIV ENH,Exchange Traded Products,Exchange Traded Funds,HKD
 3579,3579.HK,EFUND MPF HK,Exchange Traded Products,Exchange Traded Funds,HKD
 3589,3589.HK,A HSTECHCC,Exchange Traded Products,Exchange Traded Funds,HKD
 3600,3600.HK,MODERN DENTAL,Equity,Equity Securities (Main Board),HKD
@@ -2357,7 +2348,7 @@ stock_code,symbol,name,category,sub_category,currency
 3836,3836.HK,HARMONY AUTO,Equity,Equity Securities (Main Board),HKD
 3838,3838.HK,CHINA STARCH,Equity,Equity Securities (Main Board),HKD
 3839,3839.HK,CPBIO,Equity,Equity Securities (Main Board),HKD
-3848,3848.HK,HAOSEN FINT-NEW,Equity,Equity Securities (Main Board),HKD
+3848,3848.HK,HAOSEN FINTECH,Equity,Equity Securities (Main Board),HKD
 3858,3858.HK,JIAXIN INTL RES,Equity,Equity Securities (Main Board),HKD
 3860,3860.HK,EPS HEALTH TECH,Equity,Equity Securities (Main Board),HKD
 3866,3866.HK,BQD,Equity,Equity Securities (Main Board),HKD
@@ -2378,7 +2369,7 @@ stock_code,symbol,name,category,sub_category,currency
 3898,3898.HK,TIMES ELECTRIC,Equity,Equity Securities (Main Board),HKD
 3899,3899.HK,CIMC ENRIC,Equity,Equity Securities (Main Board),HKD
 3900,3900.HK,GREENTOWN CHINA,Equity,Equity Securities (Main Board),HKD
-3903,3903.HK,HANHUA FIN,Equity,Equity Securities (Main Board),HKD
+3903,3903.HK,HANHUA HOLDING,Equity,Equity Securities (Main Board),HKD
 3908,3908.HK,CICC,Equity,Equity Securities (Main Board),HKD
 3913,3913.HK,KWG LIVING,Equity,Equity Securities (Main Board),HKD
 3918,3918.HK,NAGACORP,Equity,Equity Securities (Main Board),HKD
@@ -2411,7 +2402,7 @@ stock_code,symbol,name,category,sub_category,currency
 6036,6036.HK,APEX ACE HLDG,Equity,Equity Securities (Main Board),HKD
 6038,6038.HK,G & M HLDGS,Equity,Equity Securities (Main Board),HKD
 6049,6049.HK,POLY PPT SER,Equity,Equity Securities (Main Board),HKD
-6051,6051.HK,YOUZAN-NEW,Equity,Equity Securities (Main Board),HKD
+6051,6051.HK,YOUZAN,Equity,Equity Securities (Main Board),HKD
 6055,6055.HK,CTIHK,Equity,Equity Securities (Main Board),HKD
 6058,6058.HK,CISI FIN,Equity,Equity Securities (Main Board),HKD
 6060,6060.HK,ZA ONLINE,Equity,Equity Securities (Main Board),HKD
@@ -2467,7 +2458,7 @@ stock_code,symbol,name,category,sub_category,currency
 6600,6600.HK,ONEROBOTICS,Equity,Equity Securities (Main Board),HKD
 6601,6601.HK,CHEERWIN GP,Equity,Equity Securities (Main Board),HKD
 6603,6603.HK,IFBH,Equity,Equity Securities (Main Board),HKD
-6608,6608.HK,BAIRONG-W,Equity,Equity Securities (Main Board),HKD
+6608,6608.HK,BAIRONG AI-W,Equity,Equity Securities (Main Board),HKD
 6609,6609.HK,HEARTCARE-B,Equity,Equity Securities (Main Board),HKD
 6610,6610.HK,FLOWING CLOUD,Equity,Equity Securities (Main Board),HKD
 6611,6611.HK,SANXUN GROUP,Equity,Equity Securities (Main Board),HKD
@@ -2666,7 +2657,7 @@ stock_code,symbol,name,category,sub_category,currency
 8067,8067.HK,OUC HOLDINGS,Equity,Equity Securities (GEM),HKD
 8069,8069.HK,FLYDOO TECH,Equity,Equity Securities (GEM),HKD
 8070,8070.HK,KEEN OCEAN,Equity,Equity Securities (GEM),HKD
-8071,8071.HK,CH NETCOM-NEW,Equity,Equity Securities (GEM),HKD
+8071,8071.HK,CH NETCOMTECH,Equity,Equity Securities (GEM),HKD
 8072,8072.HK,LANGU CO,Equity,Equity Securities (GEM),HKD
 8073,8073.HK,SFSY NEW MAT,Equity,Equity Securities (GEM),HKD
 8076,8076.HK,SING LEE,Equity,Equity Securities (GEM),HKD
@@ -2695,8 +2686,8 @@ stock_code,symbol,name,category,sub_category,currency
 8120,8120.HK,CH DEMETER FIN,Equity,Equity Securities (GEM),HKD
 8121,8121.HK,GUOEN HOLDINGS,Equity,Equity Securities (GEM),HKD
 8123,8123.HK,SINOFORTUNE FIN,Equity,Equity Securities (GEM),HKD
-8125,8125.HK,CHINA NEW HLDGS,Equity,Equity Securities (GEM),HKD
-8128,8128.HK,CHYY GP,Equity,Equity Securities (GEM),HKD
+8125,8125.HK,RJVAN,Equity,Equity Securities (GEM),HKD
+8128,8128.HK,SINO ENGY CONS,Equity,Equity Securities (GEM),HKD
 8130,8130.HK,DADI INTL GROUP,Equity,Equity Securities (GEM),HKD
 8131,8131.HK,NOVATECH INTEL,Equity,Equity Securities (GEM),HKD
 8132,8132.HK,CENTURY EN INTL,Equity,Equity Securities (GEM),HKD
@@ -2707,7 +2698,7 @@ stock_code,symbol,name,category,sub_category,currency
 8140,8140.HK,BOSATECH,Equity,Equity Securities (GEM),HKD
 8143,8143.HK,GF HEALTHCARE,Equity,Equity Securities (GEM),HKD
 8146,8146.HK,GRACEWINE,Equity,Equity Securities (GEM),HKD
-8147,8147.HK,MILLENNIUM PG,Equity,Equity Securities (GEM),HKD
+8147,8147.HK,YUNJING DIGITEC,Equity,Equity Securities (GEM),HKD
 8148,8148.HK,WUXI LIFE,Equity,Equity Securities (GEM),HKD
 8149,8149.HK,ALTUS HLDGS,Equity,Equity Securities (GEM),HKD
 8152,8152.HK,M&L HOLDINGS,Equity,Equity Securities (GEM),HKD
@@ -2860,7 +2851,7 @@ stock_code,symbol,name,category,sub_category,currency
 8437,8437.HK,RMH HOLDINGS,Equity,Equity Securities (GEM),HKD
 8439,8439.HK,SOMERLEY CAP,Equity,Equity Securities (GEM),HKD
 8445,8445.HK,NOBLE ENG GP,Equity,Equity Securities (GEM),HKD
-8446,8446.HK,BRIGHTSTAR TECH,Equity,Equity Securities (GEM),HKD
+8446,8446.HK,BRIGHTSTAR-NEW,Equity,Equity Securities (GEM),HKD
 8447,8447.HK,MS CONCEPT,Equity,Equity Securities (GEM),HKD
 8448,8448.HK,UNI PRINTSHOP,Equity,Equity Securities (GEM),HKD
 8450,8450.HK,EDICO HOLDINGS,Equity,Equity Securities (GEM),HKD
@@ -2909,7 +2900,8 @@ stock_code,symbol,name,category,sub_category,currency
 8545,8545.HK,AMUSE GROUP,Equity,Equity Securities (GEM),HKD
 8547,8547.HK,PACIFIC LEGEND,Equity,Equity Securities (GEM),HKD
 8549,8549.HK,GOLDEN LEAF INT,Equity,Equity Securities (GEM),HKD
-8571,8571.HK,CH NETCOM-OLD,Equity,Equity Securities (GEM),HKD
+8577,8577.HK,BRIGHTSTAR-OLD,Equity,Equity Securities (GEM),HKD
+8578,8578.HK,GUOEN HLDGS RTS,Equity,Equity Securities (GEM),HKD
 8601,8601.HK,BOLTEK,Equity,Equity Securities (GEM),HKD
 8606,8606.HK,KINETIX SYSTEMS,Equity,Equity Securities (GEM),HKD
 8610,8610.HK,BBSB INTL,Equity,Equity Securities (GEM),HKD
@@ -2937,6 +2929,7 @@ stock_code,symbol,name,category,sub_category,currency
 9608,9608.HK,SUNDY SERVICE,Equity,Equity Securities (Main Board),HKD
 9609,9609.HK,HAIWEI ELEC,Equity,Equity Securities (Main Board),HKD
 9611,9611.HK,LONGCHEER,Equity,Equity Securities (Main Board),HKD
+9615,9615.HK,MECH-MIND ROBOT,Equity,Equity Securities (Main Board),HKD
 9616,9616.HK,NEUTECH GROUP,Equity,Equity Securities (Main Board),HKD
 9618,9618.HK,JD-SW,Equity,Equity Securities (Main Board),HKD
 9626,9626.HK,BILIBILI-W,Equity,Equity Securities (Main Board),HKD
@@ -2979,7 +2972,7 @@ stock_code,symbol,name,category,sub_category,currency
 9885,9885.HK,YSB,Equity,Equity Securities (Main Board),HKD
 9886,9886.HK,DINGDANG HEALTH,Equity,Equity Securities (Main Board),HKD
 9887,9887.HK,LEADS BIOLABS-B,Equity,Equity Securities (Main Board),HKD
-9888,9888.HK,BIDU-SW,Equity,Equity Securities (Main Board),HKD
+9888,9888.HK,BIDU-W,Equity,Equity Securities (Main Board),HKD
 9889,9889.HK,DRCB,Equity,Equity Securities (Main Board),HKD
 9890,9890.HK,TANWAN,Equity,Equity Securities (Main Board),HKD
 9893,9893.HK,PIZU GROUP,Equity,Equity Securities (Main Board),HKD
@@ -3013,7 +3006,7 @@ stock_code,symbol,name,category,sub_category,currency
 9959,9959.HK,LINKLOGIS-W,Equity,Equity Securities (Main Board),HKD
 9960,9960.HK,KINDSTAR GLOBAL,Equity,Equity Securities (Main Board),HKD
 9961,9961.HK,TRIP.COM-S,Equity,Equity Securities (Main Board),HKD
-9963,9963.HK,TRANSTECH,Equity,Equity Securities (Main Board),HKD
+9963,9963.HK,TRANSTECH OPTEL,Equity,Equity Securities (Main Board),HKD
 9966,9966.HK,ALPHAMAB-B,Equity,Equity Securities (Main Board),HKD
 9968,9968.HK,HUIJING HLDGS,Equity,Equity Securities (Main Board),HKD
 9969,9969.HK,INNOCARE,Equity,Equity Securities (Main Board),HKD
