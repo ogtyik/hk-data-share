@@ -226,3 +226,81 @@
 [2026-09-01T06:08:20Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=37/38 size=80 ok=80 miss=0 cumulative_ok=2960 cumulative_miss=0 elapsed=26.60s
 [2026-09-01T06:08:20Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=38/38 size=72 accumulated_ok=2960 accumulated_miss=0
 [2026-09-01T06:08:45Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=38/38 size=72 ok=72 miss=0 cumulative_ok=3032 cumulative_miss=0 elapsed=24.95s
+[2026-10-01T06:40:28Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=1/39 size=80 accumulated_ok=0 accumulated_miss=0
+[2026-10-01T06:40:43Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=1/39 size=80 ok=80 miss=0 cumulative_ok=80 cumulative_miss=0 elapsed=15.61s
+[2026-10-01T06:40:44Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=2/39 size=80 accumulated_ok=80 accumulated_miss=0
+[2026-10-01T06:40:59Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=2/39 size=80 ok=80 miss=0 cumulative_ok=160 cumulative_miss=0 elapsed=15.42s
+[2026-10-01T06:40:59Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=3/39 size=80 accumulated_ok=160 accumulated_miss=0
+[2026-10-01T06:41:15Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=3/39 size=80 ok=80 miss=0 cumulative_ok=240 cumulative_miss=0 elapsed=15.85s
+[2026-10-01T06:41:15Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=4/39 size=80 accumulated_ok=240 accumulated_miss=0
+[2026-10-01T06:41:30Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=4/39 size=80 ok=80 miss=0 cumulative_ok=320 cumulative_miss=0 elapsed=15.29s
+[2026-10-01T06:41:31Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=5/39 size=80 accumulated_ok=320 accumulated_miss=0
+[2026-10-01T06:41:44Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=5/39 size=80 ok=80 miss=0 cumulative_ok=400 cumulative_miss=0 elapsed=13.69s
+[2026-10-01T06:41:44Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=6/39 size=80 accumulated_ok=400 accumulated_miss=0
+[2026-10-01T06:41:59Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=6/39 size=80 ok=80 miss=0 cumulative_ok=480 cumulative_miss=0 elapsed=14.87s
+[2026-10-01T06:41:59Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=7/39 size=80 accumulated_ok=480 accumulated_miss=0
+[2026-10-01T06:42:14Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=7/39 size=80 ok=80 miss=0 cumulative_ok=560 cumulative_miss=0 elapsed=14.60s
+[2026-10-01T06:42:14Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=8/39 size=80 accumulated_ok=560 accumulated_miss=0
+[2026-10-01T06:42:28Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=8/39 size=80 ok=80 miss=0 cumulative_ok=640 cumulative_miss=0 elapsed=14.25s
+[2026-10-01T06:42:29Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=9/39 size=80 accumulated_ok=640 accumulated_miss=0
+[2026-10-01T06:42:43Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=9/39 size=80 ok=80 miss=0 cumulative_ok=720 cumulative_miss=0 elapsed=13.97s
+[2026-10-01T06:42:43Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=10/39 size=80 accumulated_ok=720 accumulated_miss=0
+[2026-10-01T06:42:58Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=10/39 size=80 ok=80 miss=0 cumulative_ok=800 cumulative_miss=0 elapsed=14.90s
+[2026-10-01T06:42:58Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=11/39 size=80 accumulated_ok=800 accumulated_miss=0
+[2026-10-01T06:43:11Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=11/39 size=80 ok=80 miss=0 cumulative_ok=880 cumulative_miss=0 elapsed=13.70s
+[2026-10-01T06:43:12Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=12/39 size=80 accumulated_ok=880 accumulated_miss=0
+[2026-10-01T06:43:25Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=12/39 size=80 ok=80 miss=0 cumulative_ok=960 cumulative_miss=0 elapsed=13.90s
+[2026-10-01T06:43:26Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=13/39 size=80 accumulated_ok=960 accumulated_miss=0
+[2026-10-01T06:43:40Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=13/39 size=80 ok=80 miss=0 cumulative_ok=1040 cumulative_miss=0 elapsed=14.23s
+[2026-10-01T06:43:40Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=14/39 size=80 accumulated_ok=1040 accumulated_miss=0
+[2026-10-01T06:43:52Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=14/39 size=80 ok=80 miss=0 cumulative_ok=1120 cumulative_miss=0 elapsed=12.32s
+[2026-10-01T06:43:52Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=15/39 size=80 accumulated_ok=1120 accumulated_miss=0
+[2026-10-01T06:44:06Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=15/39 size=80 ok=80 miss=0 cumulative_ok=1200 cumulative_miss=0 elapsed=13.56s
+[2026-10-01T06:44:06Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=16/39 size=80 accumulated_ok=1200 accumulated_miss=0
+[2026-10-01T06:44:19Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=16/39 size=80 ok=80 miss=0 cumulative_ok=1280 cumulative_miss=0 elapsed=12.40s
+[2026-10-01T06:44:19Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=17/39 size=80 accumulated_ok=1280 accumulated_miss=0
+[2026-10-01T06:44:31Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=17/39 size=80 ok=80 miss=0 cumulative_ok=1360 cumulative_miss=0 elapsed=12.22s
+[2026-10-01T06:44:31Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=18/39 size=80 accumulated_ok=1360 accumulated_miss=0
+[2026-10-01T06:44:45Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=18/39 size=80 ok=80 miss=0 cumulative_ok=1440 cumulative_miss=0 elapsed=14.13s
+[2026-10-01T06:44:45Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=19/39 size=80 accumulated_ok=1440 accumulated_miss=0
+[2026-10-01T06:44:59Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=19/39 size=80 ok=80 miss=0 cumulative_ok=1520 cumulative_miss=0 elapsed=13.33s
+[2026-10-01T06:44:59Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=20/39 size=80 accumulated_ok=1520 accumulated_miss=0
+[2026-10-01T06:45:11Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=20/39 size=80 ok=80 miss=0 cumulative_ok=1600 cumulative_miss=0 elapsed=12.36s
+[2026-10-01T06:45:11Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=21/39 size=80 accumulated_ok=1600 accumulated_miss=0
+[2026-10-01T06:45:24Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=21/39 size=80 ok=80 miss=0 cumulative_ok=1680 cumulative_miss=0 elapsed=12.58s
+[2026-10-01T06:45:24Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=22/39 size=80 accumulated_ok=1680 accumulated_miss=0
+[2026-10-01T06:45:38Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=22/39 size=80 ok=80 miss=0 cumulative_ok=1760 cumulative_miss=0 elapsed=13.95s
+[2026-10-01T06:45:38Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=23/39 size=80 accumulated_ok=1760 accumulated_miss=0
+[2026-10-01T06:45:51Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=23/39 size=80 ok=80 miss=0 cumulative_ok=1840 cumulative_miss=0 elapsed=12.45s
+[2026-10-01T06:45:51Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=24/39 size=80 accumulated_ok=1840 accumulated_miss=0
+[2026-10-01T06:46:03Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=24/39 size=80 ok=80 miss=0 cumulative_ok=1920 cumulative_miss=0 elapsed=11.78s
+[2026-10-01T06:46:03Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=25/39 size=80 accumulated_ok=1920 accumulated_miss=0
+[2026-10-01T06:46:16Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=25/39 size=80 ok=80 miss=0 cumulative_ok=2000 cumulative_miss=0 elapsed=13.51s
+[2026-10-01T06:46:16Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=26/39 size=80 accumulated_ok=2000 accumulated_miss=0
+[2026-10-01T06:46:31Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=26/39 size=80 ok=80 miss=0 cumulative_ok=2080 cumulative_miss=0 elapsed=14.97s
+[2026-10-01T06:46:32Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=27/39 size=80 accumulated_ok=2080 accumulated_miss=0
+[2026-10-01T06:46:44Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=27/39 size=80 ok=80 miss=0 cumulative_ok=2160 cumulative_miss=0 elapsed=12.66s
+[2026-10-01T06:46:44Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=28/39 size=80 accumulated_ok=2160 accumulated_miss=0
+[2026-10-01T06:46:57Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=28/39 size=80 ok=80 miss=0 cumulative_ok=2240 cumulative_miss=0 elapsed=12.68s
+[2026-10-01T06:46:57Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=29/39 size=80 accumulated_ok=2240 accumulated_miss=0
+[2026-10-01T06:47:11Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=29/39 size=80 ok=80 miss=0 cumulative_ok=2320 cumulative_miss=0 elapsed=14.05s
+[2026-10-01T06:47:11Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=30/39 size=80 accumulated_ok=2320 accumulated_miss=0
+[2026-10-01T06:47:25Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=30/39 size=80 ok=80 miss=0 cumulative_ok=2400 cumulative_miss=0 elapsed=13.32s
+[2026-10-01T06:47:25Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=31/39 size=80 accumulated_ok=2400 accumulated_miss=0
+[2026-10-01T06:47:37Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=31/39 size=80 ok=80 miss=0 cumulative_ok=2480 cumulative_miss=0 elapsed=12.34s
+[2026-10-01T06:47:37Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=32/39 size=80 accumulated_ok=2480 accumulated_miss=0
+[2026-10-01T06:47:50Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=32/39 size=80 ok=80 miss=0 cumulative_ok=2560 cumulative_miss=0 elapsed=12.44s
+[2026-10-01T06:47:50Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=33/39 size=80 accumulated_ok=2560 accumulated_miss=0
+[2026-10-01T06:48:02Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=33/39 size=80 ok=80 miss=0 cumulative_ok=2640 cumulative_miss=0 elapsed=12.56s
+[2026-10-01T06:48:03Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=34/39 size=80 accumulated_ok=2640 accumulated_miss=0
+[2026-10-01T06:48:16Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=34/39 size=80 ok=80 miss=0 cumulative_ok=2720 cumulative_miss=0 elapsed=13.03s
+[2026-10-01T06:48:16Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=35/39 size=80 accumulated_ok=2720 accumulated_miss=0
+[2026-10-01T06:48:28Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=35/39 size=80 ok=80 miss=0 cumulative_ok=2800 cumulative_miss=0 elapsed=12.08s
+[2026-10-01T06:48:28Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=36/39 size=80 accumulated_ok=2800 accumulated_miss=0
+[2026-10-01T06:48:40Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=36/39 size=80 ok=80 miss=0 cumulative_ok=2880 cumulative_miss=0 elapsed=12.18s
+[2026-10-01T06:48:40Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=37/39 size=80 accumulated_ok=2880 accumulated_miss=0
+[2026-10-01T06:48:53Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=37/39 size=80 ok=80 miss=0 cumulative_ok=2960 cumulative_miss=0 elapsed=12.93s
+[2026-10-01T06:48:53Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=38/39 size=80 accumulated_ok=2960 accumulated_miss=0
+[2026-10-01T06:49:07Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=38/39 size=80 ok=80 miss=0 cumulative_ok=3040 cumulative_miss=0 elapsed=13.43s
+[2026-10-01T06:49:07Z] MONTHLY_EXCLUSION_BATCH_START period=2mo batch=39/39 size=28 accumulated_ok=3040 accumulated_miss=0
+[2026-10-01T06:49:11Z] MONTHLY_EXCLUSION_BATCH_DONE period=2mo batch=39/39 size=28 ok=28 miss=0 cumulative_ok=3068 cumulative_miss=0 elapsed=4.40s

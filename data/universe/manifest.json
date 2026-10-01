@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-01T06:08:52.028597+00:00",
+  "updated_at_utc": "2026-10-01T06:49:20.385316+00:00",
   "sources": {
     "hkex_list_of_securities_xlsx": "https://www.hkex.com.hk/eng/services/trading/securities/securitieslists/ListOfSecurities.xlsx",
     "yahoo_finance_daily_bars": "yfinance"
@@ -17,31 +17,31 @@
     "pre_scan_generated_exclusions": "30日平均成交額 < 1500萬港元，或 Yahoo 對不到 / 疑似已下市代號"
   },
   "counts": {
-    "symbols": 3032,
-    "generated_exclusions": 2412,
-    "smallcap_symbols": 2392,
-    "missing_symbols": 20
+    "symbols": 3068,
+    "generated_exclusions": 2407,
+    "smallcap_symbols": 2397,
+    "missing_symbols": 10
   },
   "files": {
     "hkex_ListOfSecurities.xlsx": {
-      "sha256": "f7f160ccb2dfaa519323a9525e9b53218dff9a3cc992bc869db773cd7a80eadf",
-      "bytes": 1403215
+      "sha256": "00dace75b9cfd619d0841cb522d5d5b2c4d0230c8209bf0dc0ac696285a67ad6",
+      "bytes": 1352215
     },
     "hk_symbols.csv": {
-      "sha256": "79f85741213fa67a0722f9e79cd615e7feab36bc8d859bf9c6a161e77ca9bb37",
-      "bytes": 204783
+      "sha256": "63dd682e38187df4561c46708787cf195c0b39ee8dbadadacd5370016f30cc8d",
+      "bytes": 207377
     },
     "monthly_excluded_symbols.json": {
-      "sha256": "3006423ea94b63b547c38ad47dc8a1c2ebd10ada31f84560622973cf7d45434a",
-      "bytes": 783826
+      "sha256": "c19f1ea92ffbf1c6d539d560d6d48f7367f674c0c82ff01a0e8bd53f57eac54d",
+      "bytes": 782469
     },
     "monthly_excluded_symbols.csv": {
-      "sha256": "fc065cd7a8885f32188e2c6e5f0618b85de6f67e6deb12bf0ec76485b62aa978",
-      "bytes": 257598
+      "sha256": "b5b7a7e548e59361512e94755e4ea38f60903276d4d5b710f18a3c986122e0d8",
+      "bytes": 257371
     },
     "monthly_excluded_symbols.txt": {
-      "sha256": "faeee7657f2ebf2b01e9e3ec06cac5ed22021ae8378409ae9cc60ecded620d8f",
-      "bytes": 19296
+      "sha256": "c74011b294aac88c591b466e597410aabc53ccb3c2432e828ac63622593e4f2e",
+      "bytes": 19256
     }
   }
 }
